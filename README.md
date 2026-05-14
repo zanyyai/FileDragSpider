@@ -25,8 +25,8 @@
 
 ## 📖 简介
 
-网上没有找到类似工具，所以就自己做了一个这样的小工具满足自己需求。这是第一个做的小工具发布到github请多多指教。如有类似软件可以推荐给我。
-（感谢swe-1.5，Gemini，Cursor，Chatgpt，，Claude code等工具带来的帮助！！！）
+这是第一个做的小工具发布到github请多多指教。如有类似软件可以推荐给我。
+（感谢Gemini，swe-1.5，Cursor，Chatgpt，，Claude code等工具带来的帮助！！！应该早有大神做出了这个小功能，可能他们没空发布这么小的功能，不管怎么说感谢各种借到的力。）
 FileDragSpider 是一款Windows文件批量搜索与处理工具，帮助用户快速定位、整理和批量处理分散在不同目录中的文件。
 
 <img width="722" height="792" alt="image" src="https://github.com/user-attachments/assets/7b6dd43c-d982-452b-8b1a-d37929a4e792" />
