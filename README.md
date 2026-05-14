@@ -4,7 +4,7 @@
 如果这个小工具帮到了你，请我喝杯咖啡吧～
 
 <p align="center">
-  <img src="docs/wechat_qr.png" alt="微信赞赏码" width="150" style="margin-right:20px;"/>
+  <img src="docs/wechat_qr.png" alt="微信赞赏码" width="250" style="margin-right:20px;"/>
   <img src="docs/alipay_qr.png" alt="支付宝扫一扫" width="150"/>
 </p>
 
