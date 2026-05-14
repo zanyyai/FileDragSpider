@@ -17,6 +17,9 @@
 （感谢swe-1.5，Gemini，Cursor，Chatgpt，，Claude code等工具带来的帮助！！！）
 FileDragSpider 是一款Windows文件批量搜索与处理工具，帮助用户快速定位、整理和批量处理分散在不同目录中的文件。
 
+<img width="722" height="792" alt="image" src="https://github.com/user-attachments/assets/7b6dd43c-d982-452b-8b1a-d37929a4e792" />
+
+
 ### ✨ 核心功能
 
 - 🔍 **多目录搜索** - 同时在多个目录中搜索指定文件
