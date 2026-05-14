@@ -5,8 +5,7 @@
 
 | 微信赞赏码 | 支付宝扫一扫 |
 |-----------|------------|
-| ![wechat](<img width="1037" height="1037" alt="951de61c354dcfa41deeffee3f4a686b" src="https://github.com/user-attachments/assets/8aa12de6-e381-402b-ad96-d6ac8273e15d" />
-) | ![alipay](docs/alipay_qr.png) |
+| ![wechat](docs/wechat_qr.png)| ![alipay](docs/alipay_qr.png) |
 
 > 非强制，纯粹自愿 🙏  
 > 你的每一笔赞助都会激励我继续维护更新！
