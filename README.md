@@ -3,9 +3,10 @@
 ## ☕ 支持作者
 如果这个小工具帮到了你，请我喝杯咖啡吧～
 
-| 微信赞赏码 | 支付宝扫一扫 |
-|-----------|------------|
-| ![wechat](docs/wechat_qr.png)| ![alipay](docs/alipay_qr.png) |
+<p align="center">
+  <img src="docs/wechat_qr.png" alt="微信赞赏码" width="150" style="margin-right:10px;"/>
+  <img src="docs/alipay_qr.png" alt="支付宝扫一扫" width="150"/>
+</p>
 
 > 非强制，纯粹自愿 🙏  
 > 你的每一笔赞助都会激励我继续维护更新！
