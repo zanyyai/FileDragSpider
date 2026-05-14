@@ -32,7 +32,7 @@ FileDragSpider 是一款Windows文件批量搜索与处理工具，帮助用户�
 
 ### 下载
 
-前往 [Releases](https://github.com/yourusername/FileDragSpider/releases) 页面下载最新版本的 `.exe` 文件。
+前往 [Releases](https://github.com/zanyyai/FileDragSpider/releases) 页面下载最新版本的 `.exe` 文件。
 
 ### 运行
 
