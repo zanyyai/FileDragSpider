@@ -1,14 +1,14 @@
 # FileDragSpider v4
 
 ## ☕ 支持作者
-如果这个小工具帮到了你，请我喝杯咖啡吧～
+无需安装，直接解压运行。如果这个小工具帮到了你，可以请我喝杯咖啡吗~
 
 <p align="center">
   <img src="docs/wechat_qr.png" alt="微信赞赏码" width="350" style="margin-right:20px;"/>
   <img src="docs/alipay_qr.png" alt="支付宝扫一扫" width="150"/>
 </p>
 
-> 如果对您有帮助，愿意打赏，可以打赏点 🙏  
+> 如果对您有帮助，可以打赏点零花钱，感谢支持 🙏  
 > 你的每一笔赞助都会激励我继续维护更新！
 
 
